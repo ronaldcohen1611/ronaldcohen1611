@@ -2,6 +2,7 @@
 - 🌱 I’m currently studying computer science at The New Jersey Institute of Technology
 - 💞️ I’m looking to collaborate on projects with my future cs associates 
 - 📫 How to reach me email ronaldcohen16@gmail.com
+- www.linkedin.com/in/ronald-cohen-337546203
 
 <!---
 ronaldcohen1611/ronaldcohen1611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
