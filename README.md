@@ -1,4 +1,4 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ronald-cohen-337546203/)
+[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/ronald-cohen-337546203/)
 - 👋 Hi, I’m @ronaldcohen1611
 - 🌱 I’m currently studying computer science at The New Jersey Institute of Technology
 - 💞️ I’m looking to collaborate on projects with my future cs associates 
